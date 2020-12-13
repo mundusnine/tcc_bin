@@ -1,0 +1,6 @@
+[submodule "linux/tccbin"]
+	path = linux/tccbin
+	url = https://github.com/vlang/tccbin.git
+[submodule "win/tccbin_win"]
+	path = win/tccbin_win
+	url = https://github.com/vlang/tccbin_win.git
